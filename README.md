@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋 Hello, I'm Rihab Dahdouh!
 
-<!--
-**RihabDahdouh/RihabDahdouh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a Computer Engineering student passionate about Web Development and Competitive Programming.
 
-Here are some ideas to get you started:
+🎯 Practicing problem-solving on **Codeforces, LeetCode 
+🚀 Working on **cool projects in AI and Web Development**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My Competitive Programming Profile  
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-rihabd-blue?logo=codeforces)](https://codeforces.com/profile/rihabd)
+
+### 📫 Connect with me  
+🔗 [LinkedIn](https://www.linkedin.com/in/rihab-dahdouh-a81a05216) | ✉️ rihabdahdouh271@gmail.com  
+
